@@ -1,22 +1,15 @@
-# 1
+# README Generator
   undefined
   
-  ## Table-of-Contents
-  
-  *[Description](#description)
-  *[Installation](#installation)
-  *[Usage](#usage)
-  *[Contributing](#contributing)
-  *[Tests](#tests)
-  *[Questions](#questions)
+
   
   ## [Description](#table-of-contents)
 
-  1
+  To automate the creation of README files
 
-  1
+  To complete Module 9 Challenge
 
-  1
+  To more efficiently create README files
 
   ## [Installation](#table-of-contents)
 
@@ -24,7 +17,7 @@
 
   ## [Usage](#table-of-contents)
 
-  undefined
+  Instructions
   
   For more information on how to add screenshots for examples, visit the following website:
   
@@ -38,12 +31,12 @@
 
   ## [Tests](#table-of-contents)
 
-  1
+  By testing
 
   ## [Questions](#table-of-contents)
 
   Please contact me using the following links:
 
-  [GitHub](https://github.com/1)
+  [GitHub](https://github.com/estephanytan)
 
-  [Email: 1](mailto:1)
+  [Email: estephanytan@outlook.com](mailto:estephanytan@outlook.com)
